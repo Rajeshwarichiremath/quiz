@@ -1,2 +1,3 @@
 task : quiz
 candiadtes : 30
+rounds : 2
